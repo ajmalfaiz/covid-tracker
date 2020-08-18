@@ -1,4 +1,4 @@
-#https://covid19-ajmal.web.app  
+#https://covid.ajmalfaiz.com
 Basic build complete
 
 
