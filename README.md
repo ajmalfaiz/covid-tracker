@@ -1,4 +1,4 @@
-#https://covid.ajmalfaiz.com
+# https://covid.ajmalfaiz.com
 Basic build complete
 
 
